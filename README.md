@@ -1,9 +1,9 @@
 ### Hi there, Rezaul Karim Ridhon 👋
 
-## I'm a Programmer, Competitive Programmer, Developer!!
+## I'm a Programmer,Problem Solver, Developer!!
 
 - 🌱 I’m currently learning React
-- 🥅 2021 Goals: TypeScript,
+- 🥅 2021 Goals: TypeScript, laravel
 - ⚡ Fun fact: I love to read books
 
 <!--

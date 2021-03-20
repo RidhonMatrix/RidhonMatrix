@@ -1,5 +1,11 @@
 ### Hi there, Rezaul Karim Ridhon 👋
 
+## I'm a Programmer, Competitive Programmer, Developer!!
+
+- 🌱 I’m currently learning React
+- 🥅 2021 Goals: TypeScript,
+- ⚡ Fun fact: I love to read books
+
 <!--
 **RidhonMatrix/RidhonMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

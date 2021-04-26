@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React
 - 🥅 2021 Goals: NodeJs,TypeScript, laravel , 400 Solve
-- ⚡ Fun fact: I love to read books
+- ⚡ Hobby: I love to read books
 
 <!--
 **RidhonMatrix/RidhonMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
